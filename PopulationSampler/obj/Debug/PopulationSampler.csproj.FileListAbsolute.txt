@@ -1,0 +1,7 @@
+D:\Stuff\Desktop Files\Other\Other\Applications\C#\PopulationSampler\PopulationSampler\bin\Debug\PopulationSampler.exe.config
+D:\Stuff\Desktop Files\Other\Other\Applications\C#\PopulationSampler\PopulationSampler\bin\Debug\PopulationSampler.exe
+D:\Stuff\Desktop Files\Other\Other\Applications\C#\PopulationSampler\PopulationSampler\bin\Debug\PopulationSampler.pdb
+D:\Stuff\Desktop Files\Other\Other\Applications\C#\PopulationSampler\PopulationSampler\obj\Debug\PopulationSampler.csprojResolveAssemblyReference.cache
+D:\Stuff\Desktop Files\Other\Other\Applications\C#\PopulationSampler\PopulationSampler\obj\Debug\PopulationSampler.csproj.CoreCompileInputs.cache
+D:\Stuff\Desktop Files\Other\Other\Applications\C#\PopulationSampler\PopulationSampler\obj\Debug\PopulationSampler.exe
+D:\Stuff\Desktop Files\Other\Other\Applications\C#\PopulationSampler\PopulationSampler\obj\Debug\PopulationSampler.pdb
